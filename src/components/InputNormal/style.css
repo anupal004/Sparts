@@ -1,0 +1,16 @@
+.input-normal {
+  background-color: #ffffff;
+  border-radius: 25px;
+  height: 56px;
+  overflow: hidden;
+  position: relative;
+  width: 261px;
+}
+
+.input-normal .icon-action-zoom-in {
+  height: 30px;
+  left: 12px;
+  position: absolute;
+  top: 13px;
+  width: 30px;
+}

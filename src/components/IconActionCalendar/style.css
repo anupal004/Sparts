@@ -1,0 +1,13 @@
+.icon-action-calendar {
+  height: 43px;
+  position: relative;
+  width: 43px;
+}
+
+.icon-action-calendar .icon-social-poll {
+  height: 32px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 32px;
+}

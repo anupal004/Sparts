@@ -1,0 +1,30 @@
+.primary-button-red {
+  background-color: #016d66;
+  border-radius: 4px;
+  height: 39px;
+  position: relative;
+  width: 156px;
+}
+
+.primary-button-red .div {
+  color: var(--white);
+  font-family: "Mulish", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  height: 24px;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.primary-button-red .path {
+  height: 14px;
+  left: 8px;
+  position: absolute;
+  top: 12px;
+  width: 15px;
+}
